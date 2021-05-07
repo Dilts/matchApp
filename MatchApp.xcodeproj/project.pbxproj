@@ -15,6 +15,7 @@
 		86B864422645F3C1002A3FBE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86B864402645F3C1002A3FBE /* LaunchScreen.storyboard */; };
 		86B8644C2645F838002A3FBE /* CardModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86B8644B2645F838002A3FBE /* CardModel.swift */; };
 		86B8644F2645F959002A3FBE /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86B8644E2645F959002A3FBE /* Card.swift */; };
+		86B864542646076D002A3FBE /* CardCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86B864532646076D002A3FBE /* CardCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		86B864432645F3C1002A3FBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		86B8644B2645F838002A3FBE /* CardModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardModel.swift; sourceTree = "<group>"; };
 		86B8644E2645F959002A3FBE /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		86B864532646076D002A3FBE /* CardCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +65,9 @@
 				86B864352645F3BD002A3FBE /* AppDelegate.swift */,
 				86B864372645F3BD002A3FBE /* SceneDelegate.swift */,
 				86B864392645F3BD002A3FBE /* ViewController.swift */,
-				86B8644B2645F838002A3FBE /* CardModel.swift */,
 				86B8644E2645F959002A3FBE /* Card.swift */,
+				86B8644B2645F838002A3FBE /* CardModel.swift */,
+				86B864532646076D002A3FBE /* CardCollectionViewCell.swift */,
 				86B8643B2645F3BD002A3FBE /* Main.storyboard */,
 				86B8643E2645F3C1002A3FBE /* Assets.xcassets */,
 				86B864402645F3C1002A3FBE /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 				86B8644C2645F838002A3FBE /* CardModel.swift in Sources */,
 				86B8644F2645F959002A3FBE /* Card.swift in Sources */,
 				86B864362645F3BD002A3FBE /* AppDelegate.swift in Sources */,
+				86B864542646076D002A3FBE /* CardCollectionViewCell.swift in Sources */,
 				86B864382645F3BD002A3FBE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
