@@ -77,6 +77,9 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="D4Y-RL-aGd" secondAttribute="bottom" id="zgu-v2-XNX"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="collectionView" destination="D4Y-RL-aGd" id="KOr-qb-i6r"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
